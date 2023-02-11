@@ -1,4 +1,4 @@
-#include "charging.h"
+#include "Charging.h"
 #include <stdio.h>
 
 int CalculateRange1(int currentRed_a[])
