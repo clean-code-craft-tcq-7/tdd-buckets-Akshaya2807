@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "math.h"
-#include "CheckRange.h"
+#include "Charging.h"
 
 int getA2DInRangeValue(int* sensorData,int inputBit ,int startRange, int endRange,int noOfValues);
 int ConvertToCurrentRange(int bitInput ,int*sensorData);
